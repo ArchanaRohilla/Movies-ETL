@@ -6,7 +6,7 @@ A data pipeline moves data from a source to a destination, and the ETL process c
 In this project, an automated ETL pipeline has been created that takes in new data, performs the appropriate transformations, and loads the data into existing tables.
 
 ## Tools
-Python, Pandas, SQL, PostgreSQL
+Python, Pandas, SQL, PostgreSQL, Jupyter notebook
 
 ## Summary
 
